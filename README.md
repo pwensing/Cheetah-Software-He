@@ -63,7 +63,7 @@ s: simulation, r: robot
 
 
 ## Dependencies:
-- Qt 5.10 - https://www.qt.io/download-qt-installer
+- Qt 5.10 - including gamepad library `sudo apt-get install -y libqt5gamepad5-dev`
 - LCM - https://lcm-proj.github.io/ (Please make it sure that you have a java to let lcm compile java-extension together)
 - Eigen - http://eigen.tuxfamily.org
 - `mesa-common-dev`
